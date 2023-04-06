@@ -1,0 +1,2 @@
+WIN_EXE/Stars_Counter.exe filter=lfs diff=lfs merge=lfs -text
+Linux_EXEC/dist/Star_Counter filter=lfs diff=lfs merge=lfs -text
