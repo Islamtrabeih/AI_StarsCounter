@@ -4,7 +4,7 @@
 </p>
 
 # AI_StarsCounter
-StarsCounter is a tool for counting the number of stars within an image. UI created using QT5
+Stars_Counter is a tool for counting the number of stars within an image. UI created using QT5.
 ## Chat with us
 - **Telegram:** [Islam_Trabeih](https://t.me/islamtrabeih)
 
@@ -22,19 +22,19 @@ And just double click the exec file
  > For linux users please don't forget to `chmod` of the file
 
  ### Running the Source file
- 1. Install the required packages unisng the code 
+ 1. Install the required packages using the code:
 ```
 pip install -r requirements.txt
 ```
-> for linux users 
+> for linux users:
 ```
 pip3 install -r requirements.txt
 ```
-2. Run the source using the code 
+2. Run the source using the code:
 ```
 python Process.py
 ```
-> for linux users
+> for linux users:
 ```
 python3 Process.py
 ```
