@@ -16,8 +16,8 @@ Stars_Counter is a tool for counting the number of stars within an image. UI cre
 git clone https://github.com/Islamtrabeih/AI_StarsCounter
 ```
 ### Runing EXEC Files
-Enter the directory where the EXEC file depending on your OS "Linux_EXEC Or WIN_EXE"
-And just double click the exec file
+Enter the directory where the EXEC file depending on your OS "Linux_EXEC Or WIN_EXE";
+And just double click the exec file.
 
  > For linux users please don't forget to `chmod` of the file
 
