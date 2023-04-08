@@ -1,6 +1,7 @@
 
-
-![icon](Sources/Image.png)
+<p align="center">
+  <img src="Sources/Image.png" />
+</p>
 
 # AI_StarsCounter
 StarsCounter is a tool for counting the number of stars within an image. UI created using QT5
