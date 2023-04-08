@@ -1,0 +1,2 @@
+PyQt matplotlib scikit-image
+
